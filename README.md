@@ -1,5 +1,6 @@
 **Credit Risk Modeling and Scorecard Development using the IRB Approach**
 
+DATASET & SCORECARD  : https://drive.google.com/drive/folders/1aKo0ewGNaIRL2LJvch8xMhZTZF9XAmdy?usp=drive_link
 
 Overview
 This project focuses on building credit scores and calculating credit risk for financial institutions using the Internal Ratings-Based (IRB) Approach. The goal is to model Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD), which are critical components of credit risk assessment. These models can help banks estimate potential losses and optimize their capital requirements.
