@@ -1,4 +1,4 @@
-Credit Risk Modeling and Scorecard Development using the IRB Approach
+**Credit Risk Modeling and Scorecard Development using the IRB Approach**
 
 
 Overview
