@@ -1,4 +1,4 @@
-**Credit Risk Modeling and Scorecard Development using the IRB Approach**
+# **Credit Risk Modeling and Scorecard Development using the IRB Approach**
 
 DATASET & SCORECARD  : https://drive.google.com/drive/folders/1aKo0ewGNaIRL2LJvch8xMhZTZF9XAmdy?usp=drive_link
 
